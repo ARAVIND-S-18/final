@@ -1,0 +1,26 @@
+[
+  {
+    "doc_id": "doc_seed_001",
+    "template_id": "invoice_tpl_a",
+    "provider_name": "City Care Hospital",
+    "pages": [
+      "Invoice\nCity Care Hospital\nPatient Name: XXXX\nInvoice No: INV-1001\nItem Description Amount\nConsultation 1200\nLab Test 3500\nTotal 4700"
+    ]
+  },
+  {
+    "doc_id": "doc_seed_002",
+    "template_id": "prescription_tpl_b",
+    "provider_name": "Sunrise Clinic",
+    "pages": [
+      "Prescription\nSunrise Clinic\nDoctor: Dr. XXXXX\nPatient: XXXX\nRx: Tablet ABC - 5 days\nFollow-up in 1 week"
+    ]
+  },
+  {
+    "doc_id": "doc_seed_003",
+    "template_id": "lab_tpl_c",
+    "provider_name": "HealthLab Diagnostics",
+    "pages": [
+      "Lab Report\nHealthLab Diagnostics\nPatient ID: XXXX\nTest Name Result Reference\nHemoglobin 13.2 12-16\nWBC 6200 4000-11000"
+    ]
+  }
+]
